@@ -1,0 +1,69 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "Discovery STE",
+	"BodyPart": "LUNG",
+	"PatientPosition": "HFS",
+	"ProcedureStepDescription": "PET / CT TUMOR IMAGING",
+	"SoftwareVersions": "dm09_dvctsp1.23",
+	"StudyDescription": "PET / CT TUMOR IMAGING",
+	"SeriesDescription": "LUNG WINDOW",
+	"ProtocolName": "5.27 PET CT 3D WB PELVIS TO HEAD XPERT",
+	"ScanOptions": "HELICAL MODE",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL"],
+	"DeidentificationMethod": ["Per DICOM PS 3.15 AnnexE. Details in 0012,0064"],
+	"DeidentificationMethodCodeSequence": [ 
+	  { 
+		"CodeValue": "113100",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Basic Application Confidentiality Profile"
+	  },
+	  { 
+		"CodeValue": "113101",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Clean Pixel Data Option"
+	  },
+	  { 
+		"CodeValue": "113105",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Clean Descriptors Option"
+	  },
+	  { 
+		"CodeValue": "113107",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Retain Longitudinal With Modified Dates Option"
+	  },
+	  { 
+		"CodeValue": "113108",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Retain Patient Characteristics Option"
+	  },
+	  { 
+		"CodeValue": "113109",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Retain Device Identity Option"
+	  },
+	  { 
+		"CodeValue": "113111",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Retain Safe Private Option"
+	  }
+	],
+	"SeriesNumber": 4,
+	"AcquisitionTime": "12:21:10.000000",
+	"AcquisitionNumber": 1,
+	"ConvolutionKernel": "STANDARD",
+	"ExposureTime": 0.5,
+	"XRayTubeCurrent": 381,
+	"XRayExposure": 4,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"BidsGuess": ["CT","CT"],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20241211"
+}
