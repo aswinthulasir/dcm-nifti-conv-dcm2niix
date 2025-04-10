@@ -1,6 +1,4 @@
-Here you go, Aswin! Below is a complete and clean `README.md` for a GitHub repository that provides **DICOM to NIfTI conversion using `dcm2niix`** via Python. It includes a proper title, description, installation, usage instructions, and a special note on using **Kaggle** for DICOM datasets.
 
----
 
 ```markdown
 # 🧠 DICOM to NIfTI Converter using dcm2niix
